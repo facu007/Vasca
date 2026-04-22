@@ -1,0 +1,10 @@
+{
+  "name": "vasca-turnos-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend de turnos para Vasca (Node nativo, SQLite y Gmail SMTP).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

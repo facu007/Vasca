@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    .line { fill: none; stroke: #221914; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+    @media (prefers-color-scheme: dark) {
+      .line { stroke: #ffffff; }
+    }
+  </style>
+  <!-- Ceja -->
+  <path class="line" d="M 15 35 Q 40 15 85 30 Q 95 35 90 32 Q 50 15 15 35" />
+  <!-- Pestaña principal -->
+  <path class="line" d="M 20 60 Q 50 45 80 60" />
+  <!-- Pestañas individuales -->
+  <path class="line" d="M 25 57 Q 20 48 18 45" />
+  <path class="line" d="M 40 52 Q 38 40 35 35" />
+  <path class="line" d="M 55 50 Q 55 38 58 35" />
+  <path class="line" d="M 70 54 Q 75 42 80 38" />
+</svg>
